@@ -15,7 +15,7 @@ def wait_until(target_time):
 
 def main():
     # https://doi.org/10.1016/j.neuroimage.2020.116768　Fig1のパターンをDAWで作成→MIDIにエクスポート
-    midi_file = "./rythm2.mid"
+    midi_file = "./rhythm.mid"
     # SuperDirtサンプラーから
     stime_sound_file = "./SD0050.WAV"
 
